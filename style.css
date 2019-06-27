@@ -1,0 +1,33 @@
+h1{
+    color: brown;
+}
+.food{
+    color: red;
+    background-color: blue;
+}
+.food{
+    color: red;
+    background-color: blue;
+}
+h1{
+    background-image: url(https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg);
+}
+#chakchouka{
+    color: red;
+}
+p{
+    font-size: 30px;
+    font-size: 2em;
+}
+p{
+    border-style: solid;
+border-color: red;
+border-width: 5px;
+}
+button:hover{
+    background-color: aquamarine;
+}
+body { 
+    background: lightblue url("https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg") no-repeat fixed center; 
+  }
+  
