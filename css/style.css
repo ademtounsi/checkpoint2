@@ -1,0 +1,145 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+
+h1{
+    color: brown;
+}
+.food{
+    color: red;
+    background-color: blue;
+}
+.food{
+    color: red;
+    background-color: blue;
+}
+.adem{
+    background-attachment: fixed;
+    background-image: url("https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg");
+    height: 200px;
+    background-image:nore
+}
+p{
+    font-size: 20px;
+    font-size: 2em;
+}
+p{
+    border-style: solid;
+border-color: red;
+border-width: 5px;
+}
+button:hover{
+    background-color: aquamarine;
+}
+body{
+    background: linear-gradient(to bottom right, red, yellow);
+    font-size: 25px
+}
+.navbar{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    width: max-content;
+    background:rgba(0, 0, 255, 0);
+}
+.navbar2{
+    margin-right: 35px;
+    margin-left: 35px;
+}
+.navbar2 a{
+    text-decoration: none;
+    color: white;
+}
+.navbar3{
+    background:rgba(0, 0, 255, 0);
+}
+.image{
+    width :100vw;
+}
+.video{
+    margin-top: 20pt;
+}
+.img{
+        width: 200px;
+        height: 200px;
+        background: red;
+
+}
+.img:hover{
+    box-shadow: 5px 5px;
+    transition-duration: 1s;
+}
+.food {
+    background-color: orangered;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid white; 
+    -webkit-transition-duration: 0.4s; /* Safari */;
+  transition-duration: 1s;
+  }
+  .tiktok{
+      margin-top: 10px;
+  }
+  input[type=text], select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 30%;
+    background-color: white;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .mimou{
+    background-color: orangered;
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid white;
+    -webkit-transition-duration: 0.4s; /* Safari */;
+  transition-duration: 1s;
+  }
+  .kouki{
+    text-decoration: none;
+    color: white;
+  }
+  .mohsen{
+      margin-right: 170px;
+  }
+  .amin{
+     
+  }
+  .camel{
+    background-size: cover;
+    background-image: url("https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg");
+    height: 600px;
+    box-shadow: white;
+  }
+  .camel h1{
+      font-size: 150px
+  }
+  .aziz{
+    width: 50%;
+    box-shadow: -10px 10px orange
+  }
